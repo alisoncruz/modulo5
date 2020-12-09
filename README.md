@@ -1,1 +1,1 @@
-# Exercicio do módulo 5
+# Exercício do módulo 5
